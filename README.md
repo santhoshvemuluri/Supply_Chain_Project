@@ -20,6 +20,5 @@ This project analyzes logistics data to identify structural trends, delivery bot
 * **Cycle Time Optimization:** Uncovered an average delay of 2.4 days in processing orders categorized as 'High Risk'.
 * **Cost vs. Delivery Mode:** Highlighted discrepancies in shipping costs per unit between 'First Class' and 'Same Day' shipping relative to their actual on-time performance.
 
-## 📁 Repository Structure
-* `/sql_queries` - Contains SQL scripts for data cleaning and KPI aggregations.
-* `/excel_dashboard` - Contains the VBA macro code used for dashboard automation. *(Note: The raw .xlsx file is excluded due to size limits, but the logic is documented here).*
+### 📈 Live Dashboard Preview
+![Supply Chain KPI Dashboard](Supply_Chain_Dashboard.png)
